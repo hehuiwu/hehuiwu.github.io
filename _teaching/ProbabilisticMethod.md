@@ -1,20 +1,14 @@
 ---
 title: "Probabilistic Method in Combinatorics"
 collection: teaching
-type: "Topic Class"
+type: "Topic Discussion"
 permalink: /teaching/ProbabilisticMethod
 venue: "Fudan University"
 date: 2020-03-01
 location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course Code: Math830019 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Main TextbooK:
+  *The Probablistic Method, Noga Alon & Joel H. Spencer, Wiley, 2015 
