@@ -10,6 +10,6 @@ redirect_from:
 
 I am a mathematician from Shanghai. Currently I am working as a young investigator in Shanghai Center for Mathematical Sciences, located in the beautiful Jianwang Campus in Fudan University.
 
-My research interest mostly lie in Combinatorics, especially in Graph Theory. As in this area, there are so many elegant problems that is natural, simple and challenging! 
+My research interest mostly lie in Combinatorics, especially in Graph Theory, in which there are so many elegant problems that is natural, simple and challenging! 
 
 
