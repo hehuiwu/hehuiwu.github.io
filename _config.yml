@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Hehui Wu"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "A researcher in graph theory"
+  location         : "Shanghai"
+  employer         : "SCMS/Fudan University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hehuiwu"
   google_plus      :
   keybase          :
   instagram        :
