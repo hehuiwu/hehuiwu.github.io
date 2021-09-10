@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Shanghai, China"
 ---
 
-This is the same class of "introduction to Graph Theory (MathMATH130141.01)" at undergraduate level and "Graph Theory" (MATH830050） at graduate level.
+This is the same class of "introduction to Graph Theory" (MATH130141.01) at undergraduate level and "Graph Theory" (MATH830050） at graduate level.
 
 Main TextbooK we are using:
   * Combinatorial Mathematics,	Douglas West	Cambridge, 2020
