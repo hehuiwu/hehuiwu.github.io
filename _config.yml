@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hehui Wu/Young Investigator"
+title                    : "Dr. Hehui Wu"
 title_separator          : "-"
 name                     : &name "Hehui Wu"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Dr. Hehui Wu"
+  avatar           : "profile.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
