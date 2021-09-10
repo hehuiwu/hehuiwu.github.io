@@ -4,7 +4,7 @@ collection: teaching
 type: "Topic Class"
 permalink: /teaching/ProbabilisticMethod
 venue: "Fudan University"
-date: 2017-03-01
+date: 2020-03-01
 location: "Shanghai, China"
 ---
 
