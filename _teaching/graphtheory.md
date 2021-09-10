@@ -8,7 +8,7 @@ date: 2016-current
 location: "Shanghai, China"
 ---
 
-I teach introduction to Graph Theory/Graph Theory in Fudan University once per year. 
+I usually teach introduction to Graph Theory/Graph Theory in Fudan University in each Fall semester. 
 
 2016 Fall
 ======
