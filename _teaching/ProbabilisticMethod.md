@@ -2,7 +2,7 @@
 title: "Probabilistic Method in Combinatorics"
 collection: teaching
 type: "Topic Class"
-permalink: /teaching/Probabilistic-Method
+permalink: /teaching/ProbabilisticMethod
 venue: "Fudan University"
 date: 2017-03-01
 location: "Shanghai, China"
