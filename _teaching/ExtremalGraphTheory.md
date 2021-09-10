@@ -4,7 +4,7 @@ collection: teaching
 type: "Topic Discussion"
 permalink: /teaching/ExtremalGraphTheory
 venue: "Fudan University"
-date: 2022-02-20
+date: 2020-02-20
 location: "Shanghai, China"
 ---
 
