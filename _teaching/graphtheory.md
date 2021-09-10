@@ -2,7 +2,7 @@
 title: "Graph Theory"
 collection: teaching
 type: "Undergraduate and graduate course"
-permalink: none
+permalink: /teaching/graphtheory.md
 venue: "Fudan University"
 date: 2016-current
 location: "Shanghai, China"
