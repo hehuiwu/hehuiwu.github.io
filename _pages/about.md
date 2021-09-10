@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the the front page of my website! 
+I am a mathematician in Shanghai, currently working as a young investigator in Shanghai Center for Mathematical Sciences, located in the beautiful Jianwang Campus in Fudan University.
+
+My research interest mostly lie in Combinatorics, especially in Graph Theory. As in this area, there are so many elegant problems that is natural, simple and challenging! 
+
+
