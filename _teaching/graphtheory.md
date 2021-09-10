@@ -12,11 +12,5 @@ This is the same class of "introduction to Graph Theory (MathMATH130141.01)" at 
 
 I usually teach introduction to this class in Fudan University once a year. Here are the semesters I taught this class in the past:
 
-2020 Fall
-
-2019 Fall
-
-2018 Spring
-
-2017 Spring
+2020 Fall, 2019 Fall, 2018 Spring, 2017 Spring
 
