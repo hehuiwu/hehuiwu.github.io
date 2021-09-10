@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergrad and graduate course"
 permalink: /teaching/graphtheory
 venue: "Fudan University"
-date: 2016-fall
+date: 2016-09-01
 location: "Shanghai, China"
 ---
 
