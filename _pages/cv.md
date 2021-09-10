@@ -17,7 +17,7 @@ Education
 * Ph.D in Mathematics, University of Illinois, 2011
   * Supervisor: Professor Douglas B. West
 
-Post-Doc experience
+Work experience
 ======
 * 2011-2013: School of Computer Science, McGill University
   * Post-Doctoral Fellow 
@@ -27,8 +27,6 @@ Post-Doc experience
   * PIMS Post-Doctoral Fellow  
   * Supervisor: Professor Bojan Mohar
 
-Work experience
-======
 * 2014-2016: University of Mississippi
   * Assistant Professor
 
