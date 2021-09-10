@@ -10,5 +10,5 @@ location: "Shanghai, China"
 
 Course Code: Math830019 
 
-Main TextbooK:
-  *The Probablistic Method, Noga Alon & Joel H. Spencer, Wiley, 2015 
+Main Textbook:
+  * The Probablistic Method, Noga Alon & Joel H. Spencer, Wiley, 2015 
