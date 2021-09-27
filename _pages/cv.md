@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Illinois, 2011
+* Ph.D in Mathematics, University of Illinois at Urbana-Champaign, 2011
   * Supervisor: Professor Douglas B. West
   
 * M.S. in Mathematics, West Virginia University, Dec 2005
