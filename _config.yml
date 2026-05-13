@@ -11,9 +11,9 @@ title                    : "Dr. Hehui Wu"
 title_separator          : "-"
 name                     : &name "Hehui Wu"
 description              : &description "personal description"
-url: "https://cltang17.github.io"
-baseurl: "/hehuiwu.github.io"
-repository: "cltang17/hehuiwu.github.io"
+url: "https://hehuiwu.github.io"
+baseurl: ""
+repository: "hehuiwu/hehuiwu.github.io"
 teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
